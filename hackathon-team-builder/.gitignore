@@ -1,0 +1,9 @@
+# Nunca versionar dados reais de participantes
+*.csv
+*.json
+*.xlsx
+!modelos/*.csv
+!exemplo/*.csv
+!testes/fixtures/*.csv
+!testes/fixtures/*.json
+__pycache__/

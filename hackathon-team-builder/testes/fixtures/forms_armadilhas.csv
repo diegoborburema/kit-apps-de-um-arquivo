@@ -1,0 +1,27 @@
+﻿ID;Hora de início;Hora de conclusão;Nome completo;Área;Nível;Gênero;Cabeça de chave?;Participará dos grupos?;Disponibilidade;Opção A;Opção B;Opção C;Perfil;Comentários
+1;10/11/2026 09:02;10/11/2026 09:05;Laura Mendes;Engenharia de Dados;Sênior;Feminino;Sim;Sim;100%;D01;D04;D03;;
+2;10/11/2026 09:10;10/11/2026 09:12;Marcos Teles;Ciência de Dados;Pleno;Masculino;Não;Sim;100%;D1;D03;D02;;escreveu D1 em vez de D01
+3;10/11/2026 09:15;10/11/2026 09:19;Renata Okada;Produto de Dados;Júnior;Feminino;Não;Sim;50%;D02 · Onboarding de novos integrantes;D05;D01;;Meio período
+4;10/11/2026 09:20;10/11/2026 09:22;Paulo Viana;Negócio · Vendas;Especialista;Masculino;A confirmar;Sim;100%;Catálogo: isso já existe?;D01;D06;;só a descrição na 1ª opção
+5;10/11/2026 09:31;10/11/2026 09:33;Bia Fonseca;Dados;Pleno;Feminino;Não;Sim;100%;D03;D03;D05;DS;repetiu D03
+6;10/11/2026 09:40;10/11/2026 09:41;Igor Prado;Dados;Sênior;Masculino;Sim;Sim;100%;D05;D01;D04;DE;
+7;10/11/2026 09:44;10/11/2026 09:47;Clara Bastos;Ciência de Dados;Júnior;Feminino;Não;Sim;100%;D04;D02;D01;;
+8;10/11/2026 09:50;10/11/2026 09:52;Tomás Reis;Engenharia de Dados;Pleno;Masculino;Não;Sim;100%;D09;D02;D06;;D09 não existe
+9;10/11/2026 10:01;10/11/2026 10:03;Sílvia Rocha;Produto de Dados;Sênior;Feminino;Não;Sim;100%;-;N/A;D04;;só a 3ª opção
+10;10/11/2026 10:05;10/11/2026 10:08;Otávio Lins;Negócio · Vendas;Gerente;Masculino;Não;Sim;100%;D06;D05;D02;;nível fora da escala
+11;10/11/2026 10:12;10/11/2026 10:13;Alex Moura;Ciência de Dados;Pleno;Prefiro não dizer;Não;Sim;0,5;D01;D03;D04;;
+12;10/11/2026 10:20;10/11/2026 10:24;Júlio Campos;Engenharia de Dados;Júnior;Masculino;Não;Sim;100%;D03;D01;D05;;
+13;10/11/2026 10:30;10/11/2026 10:31;Helena Dias;Inovação;Pleno;Feminino;Não;Sim;100%;;;;;não respondeu as opções
+14;10/11/2026 10:33;10/11/2026 10:36;Rui Barreto;Produto de Dados;Sênior;Masculino;Sim;Sim;100%;D02;D04;D06;;
+15;10/11/2026 10:40;10/11/2026 10:42;Nádia Prates;Ciência de Dados;Sênior;Feminino;Não;Sim;100%;D04;D03;D02;;
+16;10/11/2026 10:45;10/11/2026 10:47;Caio Lemos;Negócio · Vendas;Júnior;Masculino;Não;Sim;100%;D05;D06;D01;;
+17;10/11/2026 10:51;10/11/2026 10:54;Diana Freire;Engenharia de Dados;Pleno;Feminino;Não;Sim;100%;D01;D02;D03;;
+18;10/11/2026 11:02;10/11/2026 11:03;Fábio Assis;Dados;Júnior;Masculino;Não;Sim;100%;D03;D04;D05;DE;
+19;10/11/2026 11:05;10/11/2026 11:08;Gisele Matos;Produto de Dados;Pleno;Feminino;Não;Sim;100%;Nenhuma;;;;
+20;10/11/2026 11:10;10/11/2026 11:11;Hugo Faria;Ciência de Dados;Sênior;Masculino;Sim;Sim;100%;D06;D04;D01;;
+21;10/11/2026 11:15;10/11/2026 11:18;Íris Leal;Inovação;Júnior;Feminino;Não;Sim;100%;D02;D01;D06;;
+22;10/11/2026 11:20;10/11/2026 11:22;Laura Mendes;Engenharia de Dados;Sênior;Feminino;Sim;Sim;100%;D04;D01;D03;;respondeu duas vezes
+23;10/11/2026 11:30;10/11/2026 11:31;Mauro Siqueira;Dados;Pleno;Masculino;Não;Sim;100%;D05;D03;D02;DS;
+24;10/11/2026 11:40;10/11/2026 11:41;Patrícia Gil;Produto de Dados;Sênior;Feminino;Não;Não;100%;;;;;organização do evento
+25;10/11/2026 11:42;10/11/2026 11:43;Sérgio Valle;Engenharia de Dados;Pleno;Masculino;Não;Não;100%;;;;;organização do evento
+26;10/11/2026 11:44;10/11/2026 11:46;Vera Cunha;Ciência de Dados;Pleno;Feminino;Não;Não;100%;;;;;organização do evento

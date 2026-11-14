@@ -1,0 +1,41 @@
+﻿Nome;Area;Senioridade;Sexo;Cabeca_de_chave;Entra_nos_grupos;Alocacao;Pref1;Pref2;Pref3;Observacao
+Úrsula Cardoso;Inovação;Junior;F;Não;Sim;100;;;;
+João Vasconcelos;Ciência de Dados;Junior;M;Não;Sim;100;D03;D06;D02;
+Caio Farias;Negócio · Vendas;Pleno;M;Não;Sim;100;D01;D03;D04;
+Daniel Rocha;Ciência de Dados;Pleno;M;Não;Sim;50;D01;D04;D02;Meio período (projeto em andamento)
+Elisa Siqueira;Ciência de Dados;Pleno;F;Não;Sim;100;;;;
+Manuela Vasconcelos;Inovação;Senior;F;Não;Sim;100;D02;D03;D04;
+Gabriela Cardoso;Engenharia de Dados;Senior;F;Não;Sim;100;D04;D01;D05;
+Wagner Rocha;Ciência de Dados;Pleno;M;Não;Sim;100;D05;D02;D06;
+Sabrina Duarte;Produto de Dados;Pleno;F;Não;Sim;100;;;;
+Júlia Esteves;Negócio · Vendas;Senior;F;Sim;Sim;100;D05;D01;D03;
+Nicolas Esteves;Ciência de Dados;Pleno;M;Não;Sim;100;D02;D03;D04;
+Bruno Hora;Engenharia de Dados;Senior;M;Sim;Sim;100;D04;D01;D06;
+Carla Moraes;Engenharia de Dados;Junior;F;Não;Sim;100;D03;D04;D01;
+Igor Teixeira;Inovação;Junior;M;Não;Sim;100;D04;D03;D06;
+Fernanda Vasconcelos;Ciência de Dados;Senior;F;Não;Sim;100;D03;D02;D01;
+Gustavo Rocha;Engenharia de Dados;Senior;M;Sim;Sim;100;D01;D04;D03;
+Hugo Almeida;Engenharia de Dados;Senior;M;Não;Sim;100;D01;D03;D04;
+Débora Duarte;Engenharia de Dados;Pleno;F;Não;Sim;100;D06;D03;D02;
+Rafael Duarte;Negócio · Vendas;Junior;M;Não;Sim;100;D02;D05;D01;
+Eduardo Teixeira;Ciência de Dados;Junior;M;Não;Sim;100;D03;D01;D04;
+Helena Cardoso;Negócio · Vendas;Senior;F;Não;Sim;100;D06;D02;D01;
+Sofia Teixeira;Ciência de Dados;Pleno;F;Não;Sim;100;D04;D05;D03;
+Leonardo Hora;Ciência de Dados;Junior;M;Não;Sim;100;D01;D04;D03;
+Thiago Almeida;Ciência de Dados;Junior;M;Não;Sim;100;D01;D04;D03;
+Vitor Oliveira;Ciência de Dados;Senior;M;Sim;Sim;100;D03;D02;D04;
+Marina Almeida;Produto de Dados;Senior;F;Não;Sim;100;D04;D05;D01;
+Priscila Gomes;Produto de Dados;Pleno;F;Não;Sim;100;D03;D04;D01;
+Tiago Pires;Produto de Dados;Senior;M;Não;Sim;100;D04;D01;D02;
+Ana Rocha;Inovação;Junior;F;Não;Sim;100;D05;D06;D03;
+Isabela Vasconcelos;Produto de Dados;Pleno;F;Não;Sim;100;D01;D06;D04;
+Bianca Esteves;Ciência de Dados;Pleno;F;Não;Sim;100;D01;D06;D02;
+Renato Teixeira;Engenharia de Dados;Junior;M;Não;Sim;100;D02;D04;D05;
+Otávio Oliveira;Produto de Dados;Junior;M;Não;Sim;100;D05;D03;D04;
+Lucas Esteves;Produto de Dados;Senior;M;Sim;Sim;100;D05;D04;D03;
+Paulo Esteves;Engenharia de Dados;Senior;M;Sim;Sim;100;D01;D02;D05;
+Karen Siqueira;Engenharia de Dados;Pleno;F;Não;Sim;100;D01;D03;D02;
+Queila Rocha;Produto de Dados;Junior;F;Não;Sim;100;;;;
+Vanessa Cardoso;Produto de Dados;Senior;F;Não;Não;100;;;;Organização do evento
+Rodrigo Siqueira;Produto de Dados;Pleno;M;Não;Não;100;;;;Organização do evento
+Yasmin Vasconcelos;Engenharia de Dados;Pleno;F;Não;Não;100;;;;Organização do evento

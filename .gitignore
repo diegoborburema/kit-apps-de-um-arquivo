@@ -1,0 +1,10 @@
+# Nunca versionar dados reais de pessoas (respostas de Forms, sessões salvas, planilhas).
+# Exceções: modelos vazios, exemplos e fixtures fictícias de cada app.
+*.csv
+*.json
+*.xlsx
+!*/modelos/*.csv
+!*/exemplo/*.csv
+!*/testes/fixtures/*
+__pycache__/
+*.pyc

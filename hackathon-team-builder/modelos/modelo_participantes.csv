@@ -1,0 +1,5 @@
+﻿Nome;Area;Senioridade;Sexo;Cabeca_de_chave;Entra_nos_grupos;Alocacao;Pref1;Pref2;Pref3;Observacao
+Pessoa Exemplo 1;Engenharia de Dados;Senior;F;Sim;Sim;100;D01;D02;D03;
+Pessoa Exemplo 2;Produto de Dados;Pleno;M;Não;Sim;50;D02;D03;D01;Meio período no evento
+Pessoa Exemplo 3;Ciência de Dados;Junior;F;Não;Sim;100;;;;Sem preferência
+Pessoa Exemplo 4;Organização;Senior;M;Não;Não;100;;;;Staff do evento
